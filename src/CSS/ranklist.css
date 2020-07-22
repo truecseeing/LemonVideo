@@ -1,0 +1,9 @@
+.rankList {
+    float: right;
+    position: absolute;
+    top: 250px;
+    right: 550px;
+}
+.hotvideo{
+    position: relative !important;
+}

@@ -1,0 +1,49 @@
+.player{
+    width:1280px;
+    height:720px;
+    position: relative;
+    left: 15%;
+    top: 50%;
+    
+}
+
+.stars{
+    top: 43px;
+    left: 100px;
+    width: 200px;
+    position: absolute;
+}
+
+h3{
+    FONT-WEIGHT: bolder;
+    top: 50px;
+    width: 80px;
+    position: absolute;
+}
+body{
+    overflow-x:hidden;
+    overflow-y: auto;
+    
+}
+#root{
+    height: auto;
+}
+video{
+    top: 30px;
+    position: relative;
+}
+.flvrate{
+    position: absolute;
+}
+.com{
+    position: absolute;
+    top: 850px;
+    left:50px;
+}
+
+.ant-comment-inner{
+    width:800px;
+}
+.header2-logo.kawnf1rw4c-editor_css {
+    width: 300px;
+}

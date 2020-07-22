@@ -1,0 +1,19 @@
+.videoimg{
+    width: 320px;
+}
+.videodiv{
+    left: 10px;
+    position: relative;
+}
+span.videofont{
+    left: 25%;
+   position: absolute;
+    display: block;
+}
+a{
+    color: black;
+}
+.videoimg {
+    width: 320px;
+    padding-left: 10px;
+}
